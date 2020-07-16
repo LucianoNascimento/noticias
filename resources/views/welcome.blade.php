@@ -6,7 +6,7 @@
 
         <title>Noticias</title>
         <!-- Fonts -->
-        <link rel="stylesheet" href="/css/app.css">
+        <link rel="stylesheet" href="css/app.css">
     </head>
     <body>
         <div class="flex-center position-ref full-height">
@@ -26,10 +26,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                  Em Breve notícias em todos os assuntos.
+                  Em Breve notícias de futebol e o olhar crítico e apurado de um jovem
+                  apaixonado por futebol.
                 </div>
             </div>
         </div>
-        <script src="/js/app.js"></script>
+        <script src="js/app.js"></script>
     </body>
 </html>
